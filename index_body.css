@@ -1,0 +1,49 @@
+body {
+    background-color: #282d32;
+    color: #f0f9ff;
+}
+
+
+.index {
+    margin-top: 100px;
+}
+
+.header-body {
+    display: flex;
+    height: 100px;
+    background-color: #282d32;
+}
+
+.h1-1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+.row2 {
+    margin-top: 30px;
+    text-align: justif;
+}
+
+.meio {
+    margin-top: 20px;
+}
+
+#img-const {
+    align-content: center;
+    
+}
+
+.img-const {
+    height: 90px;
+    display: block;
+    margin-top: 30px;
+}
+
+.body-footer {
+    display: flex;
+    height: 200px;
+    background-color: #282d32;
+}
+

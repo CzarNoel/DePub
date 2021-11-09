@@ -1,0 +1,46 @@
+.md_css {
+    background-color: #282d32; 
+    padding: 40px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 50px;
+    border-radius: 50px;
+    background: #282d32;
+    box-shadow:  12px 12px 24px #171a1d, -12px -12px 24px #394047;
+}
+
+.markdown-body h1 {
+    color: rgb(255, 255, 255);
+}  
+
+.markdown-body h3 {
+    color: rgb(255, 255, 255);
+}  
+
+.markdown-body h1, .markdown-body h2 {
+    padding-bottom: 0.3em;
+    border-bottom: 0.5px solid #770ee7;
+}
+
+p {
+      color: rgb(255, 255, 255);
+}
+
+li {
+      color: rgb(255, 255, 255);
+}
+
+.markdown-body hr {
+      background-color:#282d32;
+}
+
+.markdown-body blockquote {
+    border-left: 0.25em solid #990de400;
+}
+
+.markdown-body img {
+    background-color: rgba(255, 255, 255, 0);
+    vertical-align: middle;
+    height: 200px;
+}
