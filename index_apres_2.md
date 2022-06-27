@@ -21,9 +21,12 @@ Os **Contratos Inteligentes** tornarão todos os processos automatizados e o sis
 ### Com o formato existente e tradicional das revistas de publicação, autores e redatores farão parte de todo o processo de publicação, edição e revisão da comunidade de cientistas e acadêmicos de todo território nacional.
 
 #
-Primeiramente iniciamos como um projeto para recrutamento de TI, no qual estamos iniciando o desenvolvimento de nossas ferramentas.
+Iniciamos como um projeto para recrutamento de TI.
 
-Após o desenvolvimento do prototipo, e entrando em conceitos e formas de utilizar a comunidade descentralizada, convidaremos usuarios testes para dar inicio a pratica do conceito em desenvolvimento.
+Após o desenvolvimento do canvas, e estudo sobre as tecnologias, daremos início ao desenvolvimento do protótipo.
 
-[![jKMBWv.md.jpg](https://iili.io/jKMBWv.md.jpg)](https://freeimage.host/i/jKMBWv)
+Conseguimos um deenvolvedor de fullstack com especialização em Blockchain para desenvolver o protótipo e o sistema final.
+
+Na sequência, convidaremos a comunidade científica para testes, a fim de iniciar a prática do conceito em desenvolvimento: um processo de publicação científico sem viés de uma organizaçãp centralizada, cujos os principais participantes e decisores são a própria comunidade cinetífica brasileira.
+
 
